@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi Bro 😋 
 
+![Static Badge](https://img.shields.io/badge/language-Golang-blue?logo=go) ![Static Badge](https://img.shields.io/badge/language-Python-blue?logo=python) ![Static Badge](https://img.shields.io/badge/favorite-Arduino-green?logo=arduino)
+
+![Counter](https://count.getloli.com/@Auto-CQUPT-Plan?name=Auto-CQUPT-Plan&theme=3d-num&padding=7&offset=0&align=top&scale=0.9&pixelated=1&darkmode=auto)
+
+![Cover](./images/cover.png)
 <!--
 
 **Here are some ideas to get you started:**
